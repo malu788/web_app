@@ -208,7 +208,7 @@ function changeLang(lang) {
     btn.innerText = translations[lang].whatsapp;
 
     btn.href =
-      "https://wa.me/573103875988?text=" +
+      "https://wa.me/3911462781?text=" +
       encodeURIComponent(translations[lang].mensajes);
   }
 
